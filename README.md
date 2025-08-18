@@ -8,4 +8,4 @@ https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-wr
 # Links to the example headings above
 
 Link to the sample section: [
-https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](#sample-section).
+https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](#リンク)
