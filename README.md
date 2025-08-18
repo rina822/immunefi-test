@@ -36,3 +36,15 @@ You can add an image or a code block, too.
 ```
 
 </details>
+
+```ruby
+   puts "Toshiki"
+```
+
+</details>
+
+```ruby
+   puts "Toshiki"
+```
+
+</details>
